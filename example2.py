@@ -19,3 +19,6 @@ print(num1 + num2)
 #a group of related code is called a block
 #a group of block of code in a python script is called a program
 #the running or implementing of a program is called execution
+#the process of creating a varuable is called declearinga variable
+#the process of giving/storing a value in a variable is called initiating or assigning
+#  
