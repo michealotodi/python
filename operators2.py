@@ -10,7 +10,7 @@ print(num1 > num2) #greator than
 print(num1 >= num2) #greator than or equal to
 print(num1 <= num2) #less than or equal to
 print(num1 != num2) #not equal to
-print(num1 == num2) #not equals to
+print(num1 == num2) #equql sign
 
 #write comment on top of the line you want to comment about
 
@@ -20,13 +20,13 @@ log1 = 5
 log2 =6
 print((log1  > log2) and (log2 < log1)) #true when everything is different
 print((log1 > log2) or (log2 < log1)) #true when everything are the same
-print(True and True)
-print(True and False)
-print(not True)
-print(True or True)
-print(False or False)
-print(True or False)
-print(False or True)
+print(True and True) #false
+print(True and False) #true
+print(not True)        
+print(True or True) #true
+print(False or False) #true
+print(True or False) #false
+print(False or True) #false
 
 #membership opperators
 numbers = (20,30,40,50)
